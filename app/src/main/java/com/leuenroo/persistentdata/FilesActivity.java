@@ -19,7 +19,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 public class FilesActivity extends AppCompatActivity {
-    private final String TAG = "MainActivity";
+    private final String TAG = "FilesActivity";
 
     @BindView(R.id.filesetEmail)
     EditText mEmail;

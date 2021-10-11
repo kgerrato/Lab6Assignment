@@ -6,6 +6,7 @@ public class Note {
     private long id;
     private String note;
 
+
     public long getId() {
         return id;
     }
